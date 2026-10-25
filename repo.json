@@ -1,0 +1,97 @@
+{
+  "name": "مستودع أفلام ومسلسلات",
+  "author": "H.Salam",
+  "description": "مستودع خاص بالأفلام والمسلسلات والأنمي",
+  "extensions": [
+    {
+      "id": "lodynet",
+      "name": "Lodynet",
+      "version": "1.0.0",
+      "lang": "ar",
+      "author": "H.Salam",
+      "iconUrl": "",
+      "url": "https://lodynet.watch"
+    },
+    {
+      "id": "5tv",
+      "name": "5TV",
+      "version": "1.0.0",
+      "lang": "ar",
+      "author": "H.Salam",
+      "iconUrl": "",
+      "url": "https://new61.5tv.lol/"
+    },
+    {
+      "id": "witanime",
+      "name": "Witanime",
+      "version": "1.0.0",
+      "lang": "ar",
+      "author": "H.Salam",
+      "iconUrl": "",
+      "url": "https://witanime.site/"
+    },
+    {
+      "id": "anime3rb",
+      "name": "Anime3rb",
+      "version": "1.0.0",
+      "lang": "ar",
+      "author": "H.Salam",
+      "iconUrl": "",
+      "url": "https://anime3rb.com/"
+    },
+    {
+      "id": "astvd",
+      "name": "Astvd",
+      "version": "1.0.0",
+      "lang": "ar",
+      "author": "H.Salam",
+      "iconUrl": "",
+      "url": "https://astvd.com/home/"
+    },
+    {
+      "id": "asiaworld",
+      "name": "AsiaWorld",
+      "version": "1.0.0",
+      "lang": "ar",
+      "author": "H.Salam",
+      "iconUrl": "",
+      "url": "https://www.asiaworld.team/"
+    },
+    {
+      "id": "aradramatv",
+      "name": "AradramaTV",
+      "version": "1.0.0",
+      "lang": "ar",
+      "author": "H.Salam",
+      "iconUrl": "",
+      "url": "https://aradramatv.com/stat/airing/"
+    },
+    {
+      "id": "cimalina",
+      "name": "Cimalina",
+      "version": "1.0.0",
+      "lang": "ar",
+      "author": "H.Salam",
+      "iconUrl": "",
+      "url": "https://cimalina.live/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D9%83%D9%88%D8%B1%D9%8A%D8%A9/"
+    },
+    {
+      "id": "asia2tv",
+      "name": "Asia2TV",
+      "version": "1.0.0",
+      "lang": "ar",
+      "author": "H.Salam",
+      "iconUrl": "",
+      "url": "https://ww1.asia2tv.pw/"
+    },
+    {
+      "id": "ourdrama",
+      "name": "OurDrama",
+      "version": "1.0.0",
+      "lang": "ar",
+      "author": "H.Salam",
+      "iconUrl": "",
+      "url": "https://www.b.ourdrama.me/serie/cate/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D9%83%D9%88%D8%B1%D9%8A%D8%A9"
+    }
+  ]
+}
